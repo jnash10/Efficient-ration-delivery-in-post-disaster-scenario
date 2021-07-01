@@ -3,11 +3,12 @@ Algorithm that combines concepts from TSP to generate an efficient solution to a
 
 Read above PDF for comprehesive guide.(or check it out here: https://drive.google.com/file/d/1Y9pvj-UZODDZr3Sdo1hs6HYyp6qrmbbI/view?usp=sharing)
 
-python requirements:
+python library requirements:
 
 ```
   pip install python-tsp
   pip install numpy
+  pip install matplotlib
 ```
 
 to run the code:
