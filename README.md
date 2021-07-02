@@ -15,5 +15,5 @@ to run the code:
 ```
 python recrusive_division.py
 ```
-
+Since the TSP algorithm being used currently is an exact one(using dynamic programming), 25 cities/villages should be the upper limit for the program to run comfortably on most systems. 
 (currently it generates random villages and a hub and solves for that)
