@@ -4,7 +4,7 @@
 from random import randint, seed
 import numpy as np
 
-seed("middle")
+#seed("middle")
 def case_gen():
     n = int(input("how many districts do you want(enter integer): "))
     m = 50
