@@ -1,7 +1,8 @@
 # Efficient-ration-delivery-in-post-disaster-scenario
-Algorithm that combines concepts from TSP to generate an efficient solution to a cost constrained multiple travelling salesman problem. 
+Algorithm that combines concepts from TSP to generate an efficient solution to a cost constrained multiple travelling salesman problem. Developed for Pravega hackathon at IISc Bangalore.
 
-Read above PDF for comprehesive guide.(or check it out here: https://drive.google.com/file/d/1Y9pvj-UZODDZr3Sdo1hs6HYyp6qrmbbI/view?usp=sharing)
+Read PDF for comprehesive guide.(or check it out here: https://drive.google.com/file/d/1Y9pvj-UZODDZr3Sdo1hs6HYyp6qrmbbI/view?usp=sharing)
+Presentation in front of judges: https://www.youtube.com/watch?v=rS403JgDTmI (from 16:20 onwards) 
 
 python library requirements:
 
